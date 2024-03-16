@@ -1,0 +1,25 @@
+{
+  "name": "reisz",
+  "version": "1.1.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quietdrive/reisz.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quietdrive/reisz/issues"
+  },
+  "homepage": "https://github.com/quietdrive/reisz#readme",
+  "dependencies": {
+    "cypress": "^13.7.0"
+  }
+}
